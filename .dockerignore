@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git
+.gitignore
+*.md
+debug_*
+stderr*.txt
+stdout*.txt
+best_vit_eb0_fusion*.h5
